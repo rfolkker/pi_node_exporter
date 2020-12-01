@@ -1,6 +1,13 @@
 # pi_node_exporter
 Steps to configure Raspberry Pis to use Node Exporter
 
+## There is a script for either Pi0(W) and Pi3/4 that can be run 
+
+(requires SUDO, and RTFS before executing)
+Please note, you may want to verify the version of node_exporter on the github site before running, 
+as it may be updated before anyone finds this useful.
+https://github.com/prometheus/node_exporter
+
 ## Steps for Raspberry Pi 0/0W
 
 ### Execute the following commands
